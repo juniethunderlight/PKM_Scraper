@@ -1,2 +1,9 @@
 
 credentials.json
+
+.venv/
+__pycache__/
+credentials.json
+
+.venv/
+__pycache__/
