@@ -1,0 +1,20 @@
+{
+  "Acero":     "#60a3b9",
+  "Agua":      "#2980ef",
+  "Bicho":     "#91a119",
+  "Dragón":    "#5060e1",
+  "Eléctrico": "#fac000",
+  "Fantasma":  "#703e70",
+  "Fuego":     "#e62829",
+  "Hada":      "#ef70ef",
+  "Hielo":     "#3fd8ff",
+  "Lucha":     "#ff8000",
+  "Normal":    "#9fa19f",
+  "Planta":    "#3fa129",
+  "Psíquico":  "#ef4179",
+  "Roca":      "#afa981",
+  "Siniestro": "#50413f",
+  "Tierra":    "#915121",
+  "Veneno":    "#9141cb",
+  "Volador":   "#81b9ef"
+}

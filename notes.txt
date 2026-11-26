@@ -1,0 +1,4 @@
+
+Haz un comando orderby que ordene por olden alfabetico las hojas del libro, manteniendo las hojas en mayusculas enteras separadas
+
+Haz que, si hago un create o update de un pokémon existente (haga falta cambiarlo o no), si estaba en oculto, lo muestre.

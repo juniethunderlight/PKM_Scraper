@@ -1,0 +1,37 @@
+{
+  "natures": [
+    {"id":  1, "nombre": "Fuerte",  "descripcion": "Duro, resistente, buen combatiente",                      "stat": "ATK",     "le_gusta": "Picante", "no_le_gusta": "Picante"},
+    {"id":  2, "nombre": "Huraña",  "descripcion": "Un tanto solitario y un poco a la defensiva",             "stat": "ATK",     "le_gusta": "Picante", "no_le_gusta": "Ácido"},
+    {"id":  3, "nombre": "Audaz",   "descripcion": "Valiente, quizás un tanto inconsciente",                  "stat": "ATK",     "le_gusta": "Picante", "no_le_gusta": "Dulce"},
+    {"id":  4, "nombre": "Firme",   "descripcion": "Confiado, seguro de sus capacidades",                     "stat": "ATK",     "le_gusta": "Picante", "no_le_gusta": "Seco"},
+    {"id":  5, "nombre": "Pícara",  "descripcion": "Travieso, problemático, desobediente",                    "stat": "ATK",     "le_gusta": "Picante", "no_le_gusta": "Amargo"},
+    {"id":  6, "nombre": "Osada",   "descripcion": "Estoico, sufrido y con fuerza de voluntad",              "stat": "DEF",     "le_gusta": "Ácido",   "no_le_gusta": "Picante"},
+    {"id":  7, "nombre": "Dócil",   "descripcion": "Obediente, amigable, pacífico",                          "stat": "DEF",     "le_gusta": "Ácido",   "no_le_gusta": "Ácido"},
+    {"id":  8, "nombre": "Plácida", "descripcion": "Tranquilo, respeta sus ritmos, con control de sí mismo", "stat": "DEF",     "le_gusta": "Ácido",   "no_le_gusta": "Dulce"},
+    {"id":  9, "nombre": "Agitada", "descripcion": "Revoltoso, juguetón, inquieto pero entrañable",          "stat": "DEF",     "le_gusta": "Ácido",   "no_le_gusta": "Seco"},
+    {"id": 10, "nombre": "Floja",   "descripcion": "Perezoso, dormilón, pasota",                             "stat": "DEF",     "le_gusta": "Ácido",   "no_le_gusta": "Amargo"},
+    {"id": 11, "nombre": "Miedosa", "descripcion": "Huidizo, inseguro, con tendencia a esconderse",          "stat": "VEL",     "le_gusta": "Dulce",   "no_le_gusta": "Picante"},
+    {"id": 12, "nombre": "Activa",  "descripcion": "Impulsivo, torpe, no piensa antes de actuar",            "stat": "VEL",     "le_gusta": "Dulce",   "no_le_gusta": "Ácido"},
+    {"id": 13, "nombre": "Seria",   "descripcion": "No relaja el gesto, parece intimidante",                 "stat": "VEL",     "le_gusta": "Dulce",   "no_le_gusta": "Dulce"},
+    {"id": 14, "nombre": "Alegre",  "descripcion": "Jovial, rebosante de energía, optimista",                "stat": "VEL",     "le_gusta": "Dulce",   "no_le_gusta": "Seco"},
+    {"id": 15, "nombre": "Ingenua", "descripcion": "Inocente, fácil de engañar, absorto en sí mismo",       "stat": "VEL",     "le_gusta": "Dulce",   "no_le_gusta": "Amargo"},
+    {"id": 16, "nombre": "Modesta", "descripcion": "Humilde, discreto, no presume de sus habilidades",       "stat": "ATK ESP", "le_gusta": "Seco",    "no_le_gusta": "Picante"},
+    {"id": 17, "nombre": "Afable",  "descripcion": "Dulce, con encanto, buen trato con principiantes",       "stat": "ATK ESP", "le_gusta": "Seco",    "no_le_gusta": "Ácido"},
+    {"id": 18, "nombre": "Mansa",   "descripcion": "Tranquilo, silencioso, independiente",                   "stat": "ATK ESP", "le_gusta": "Seco",    "no_le_gusta": "Dulce"},
+    {"id": 19, "nombre": "Tímida",  "descripcion": "Vergonzoso, es difícil ganárselo",                      "stat": "ATK ESP", "le_gusta": "Seco",    "no_le_gusta": "Seco"},
+    {"id": 20, "nombre": "Alocada", "descripcion": "Desconsiderado, tendencia al caos",                      "stat": "ATK ESP", "le_gusta": "Seco",    "no_le_gusta": "Amargo"},
+    {"id": 21, "nombre": "Serena",  "descripcion": "Elegante, transmite paz",                                "stat": "DEF ESP", "le_gusta": "Amargo",  "no_le_gusta": "Picante"},
+    {"id": 22, "nombre": "Amable",  "descripcion": "Entregado, propenso a ayudar",                           "stat": "DEF ESP", "le_gusta": "Amargo",  "no_le_gusta": "Ácido"},
+    {"id": 23, "nombre": "Grosera", "descripcion": "Descarado, busca el desafío, atrevido, insolente",      "stat": "DEF ESP", "le_gusta": "Amargo",  "no_le_gusta": "Dulce"},
+    {"id": 24, "nombre": "Cauta",   "descripcion": "Precavido, atento, prudente, esmerado",                  "stat": "DEF ESP", "le_gusta": "Amargo",  "no_le_gusta": "Seco"},
+    {"id": 25, "nombre": "Rara",    "descripcion": "Peculiar, extravagante, un poco tozudo",                 "stat": "DEF ESP", "le_gusta": "Amargo",  "no_le_gusta": "Amargo"}
+  ],
+  "genetics": {
+    "PS":      ["Le encanta comer.", "A menudo, se duerme.", "Duerme mucho.", "Suele desordenar cosas.", "Le gusta relajarse."],
+    "ATK":     ["Se enorgullece de su fuerza.", "Le gusta revolverse.", "A veces se enfada.", "Le gusta luchar.", "Tiene mal genio."],
+    "DEF":     ["Se caracteriza por su cuerpo resistente.", "Encaja bien los ataques.", "Es muy persistente.", "Se caracteriza por ser muy resistente.", "Es muy perseverante."],
+    "ATK ESP": ["Siente mucha curiosidad por todo.", "Le gusta hacer travesuras.", "Es muy sagaz.", "A menudo está en Babia.", "Es muy tiquismiquis."],
+    "DEF ESP": ["Voluntarioso.", "Es un poco petulante.", "Es muy insolente.", "Odia perder.", "Es un poco cabezota."],
+    "VEL":     ["Le gusta ir muy rápido.", "Siempre tiene el oído alerta.", "Impetuoso y bobo.", "Le encanta hacer payasadas.", "Huye rápido."]
+  }
+}
